@@ -24,11 +24,7 @@
         <activity
             android:name=".LoginActivity"
             android:label="@string/title_activity_login"
-            android:parentActivityName=".DrinkUpPayUp"
             android:windowSoftInputMode="adjustResize|stateVisible" >
-            <meta-data
-                android:name="android.support.PARENT_ACTIVITY"
-                android:value="hackrice.team.hackrices15.DrinkUpPayUp" />
         </activity>
     </application>
 
